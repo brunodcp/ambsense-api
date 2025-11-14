@@ -1,0 +1,11 @@
+{
+    "nivel_log" : "DEBUG",
+    "proxy" : "",
+    "porta" : "8008",
+    "max_threads" : "100",
+    "db_host" : "localhost", 
+    "db_port" : "3306", 
+    "db_user" : "usr_ambsense", 
+    "db_pass" : "@mbs3ns3", 
+    "db_name" : "db_ambsense"
+}

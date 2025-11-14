@@ -1,0 +1,25 @@
+[2025-Nov-13 10:16:00.954] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 10:17:21.861] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 10:27:28.083] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 10:29:56.214] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 10:43:45.898] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 10:44:59.243] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 10:55:41.770] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 10:56:14.187] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 10:56:36.351] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 11:00:22.730] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 11:09:49.245] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 11:11:11.619] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 11:11:12.936] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 11:27:44.083] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 11:29:14.329] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 11:35:33.786] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 11:35:53.997] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 11:36:06.733] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-13 13:29:45.896] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-13 21:29:18.687] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-14 10:06:03.402] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-14 10:12:51.581] 192.168.0.32 POST http /ambsense/servicos/dispositivo/verificaratualizacao? 404 NOT FOUND
+[2025-Nov-14 11:13:25.808] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-14 13:02:15.867] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
+[2025-Nov-14 14:03:06.595] 192.168.0.32 GET http /google_api/get_access_token? 200 OK
