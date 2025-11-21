@@ -140,10 +140,10 @@ def after_request(response):
 
 lst_aplicacoes = []
 
-if __name__ == '__main__':
+app_config = App_config(os.path.join("config","config.json"))
+app_config.carregar_config()
 
-    app_config = App_config(os.path.join("config","config.json"))
-    app_config.carregar_config()
+if __name__ == '__main__':
     
     app.debug = (str(app_config.pegar_valor('nivel_log')) == "DEBUG")
     app.run(host = '0.0.0.0', port = app_config.pegar_valor('porta'), threaded=True)
