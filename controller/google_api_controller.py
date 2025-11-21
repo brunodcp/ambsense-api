@@ -12,6 +12,6 @@ class Google_api_controller:
         :return: Access token.
         """
         credentials = ServiceAccountCredentials.from_json_keyfile_name(
-            'keystore\\service-account.json', fsm_scope)
+            'keystore/service-account.json', fsm_scope)
         access_token_info = credentials.get_access_token()
         return access_token_info
