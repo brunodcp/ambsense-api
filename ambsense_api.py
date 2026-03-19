@@ -1,4 +1,4 @@
-from flask import Flask, request, flash, abort, jsonify
+from flask import Flask, request, flash, abort, jsonify, send_from_directory
 from flask_cors import CORS, cross_origin
 
 import os
@@ -72,6 +72,14 @@ def google_api_get_access_token():
     access_token_info = '{"access_token":"' + access_token_info.access_token + '","expires_in":' + str(access_token_info.expires_in) + '}'
     
     return access_token_info
+
+######################### APP STORE ########################## 
+
+@app.route('/app_store', methods=['GET','POST'])
+@cross_origin()
+def app_store():
+    
+    return send_from_directory('app_store', 'ambsense.apk')
 
 ########################### Pedido ########################### 
 
